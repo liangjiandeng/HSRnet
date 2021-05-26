@@ -1,4 +1,7 @@
-Code for the paper: "Hyperspectral Image Super-resolution via Deep Spatio-spectral Attention Convolutional Neural Networks"
+Code for the paper: "Hyperspectral Image Super-resolution via Deep Spatio-spectral Attention Convolutional Neural Networks", TNNLS, 2021.
+
+Project page: https://liangjiandeng.github.io/Projects_Res/HSRnet_2021tnnls.html
+
 
 ### plateform.
 The proposed network is trained on Python 3.7.4 with Tensorflow 1.14.0 + cuda10.0 + cudnn 7.6.5
