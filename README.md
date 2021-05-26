@@ -7,7 +7,8 @@ Project page: https://liangjiandeng.github.io/Projects_Res/HSRnet_2021tnnls.html
 The proposed network is trained on Python 3.7.4 with Tensorflow 1.14.0 + cuda10.0 + cudnn 7.6.5
 
 ### demo.
-HSRnet.py: The training and testing code;
+HSRnet.py: 
+contains the training and testing code. Since the traning and validation data are too big, they are not provided in the folder. But the method of data simulation is described in the paper. Moreover, the models pre-trained with CAVE data or Harvard data are available (see below), you can select which model directory you want to use.
 
 models(cave): The model trained with CAVE data;
 
