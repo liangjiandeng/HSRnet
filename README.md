@@ -4,9 +4,11 @@ Code for the paper: "Hyperspectral Image Super-resolution via Deep Spatio-spectr
 The proposed network is trained on Python 3.7.4 with Tensorflow 1.14.0 + cuda10.0 + cudnn 7.6.5
 
 ### demo.
-HSRnet.py: The training and testing code
-models(cave): The model trained with CAVE data
-models(harvard): The model trained with Harvard data
+HSRnet.py: The training and testing code;
+
+models(cave): The model trained with CAVE data;
+
+models(harvard): The model trained with Harvard data;
 
 ### two test datasets.
 test_cave_demo.mat : One testing image from CAVE dataset 
